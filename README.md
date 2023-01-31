@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Reeba Qureshi and I'm a CS undergrad currently in my second year.
+I want to pursue a career in the fields of data science and machine learning and am currently working on relevant projects.
+Here's the link to my resume: https://drive.google.com/file/d/1pxzJGkidG5e9HNj_S9lvwkzW_KC9XsQx/view?usp=sharing
 
 <!--
 **reeba212/reeba212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
